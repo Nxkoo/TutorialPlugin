@@ -1,0 +1,10 @@
+name: PluginTutorial
+version: 1.0
+main: tutorial.plugin.PluginTutorial
+description: §eEste é um plugin de tutorial.
+commands:
+  tutorial:
+    aliases:
+      - tuto
+    permission: tutorial.use
+    description: §aInformará um breve aviso sobre o video.
